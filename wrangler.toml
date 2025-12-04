@@ -1,4 +1,4 @@
-[site]
+[[site]]
 name = "suntodo"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
@@ -7,7 +7,7 @@ kv_namespaces = [
   { binding = "KV_BINDING", id = "f89ab41b39f647dca13cf4e55a73df0b" }
 ]
 
-[site]
+[[site]]
 name = "hellocm"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
@@ -15,4 +15,5 @@ keep_vars = true
 kv_namespaces = [
   { binding = "KV_BINDING", id = "e470f9812b18447197d18ed7046e648d" }
 ]
+
 
